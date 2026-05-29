@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersetch",
+        "uuid": 41942766,
+        "checksum": "p7lm7j"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
